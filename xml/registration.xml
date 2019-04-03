@@ -3,9 +3,9 @@
 	<Name xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">YOUR_APP</Name>
 	<Description xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">No Description Provided</Description>
 	<VendorName xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">Partner Vendor</VendorName>
-	<SmallIconUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">http://YOUR_SERVER_NAME/YOUR_APP/images/logo.png</SmallIconUrl>
-	<ToolsIconUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">http://YOUR_SERVER_NAME/YOUR_APP/images/tools.png</ToolsIconUrl>
-	<Url xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">http://YOUR_SERVER_NAME/YOUR_APP/index.html</Url>
-	<DescriptionUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">http://YOUR_SERVER_NAME/YOUR_APP/xml/description.xml</DescriptionUrl>
+	<SmallIconUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">https://YOUR_SERVER_NAME/images/logo.png</SmallIconUrl>
+	<ToolsIconUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">https://YOUR_SERVER_NAME/images/tools.png</ToolsIconUrl>
+	<Url xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">https://YOUR_SERVER_NAME/index.html</Url>
+	<DescriptionUrl xmlns="http://www.xerox.com/webservices/office/cuiregistration/1">https://YOUR_SERVER_NAME/xml/description.xml</DescriptionUrl>
 	<BrowserType>secondGenEIPBrowser</BrowserType>
 </Registration>
